@@ -1,4 +1,9 @@
 ## Advanced Calculator with Dark Theme
+**This is the outcome of this project:**
+
+![calculator](https://github.com/user-attachments/assets/0b2e6e77-469c-4723-b8ea-bd3b338c4b8a)
+
+
 
 ### Overview
 
